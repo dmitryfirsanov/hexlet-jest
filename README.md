@@ -1,4 +1,4 @@
-# hexlet-jest
+# hexlet-jest 🎓
 
 ## Setup
 
@@ -6,7 +6,7 @@
 make install
 ```
 
-## Run test 
+## Run test 🔧
 
 ```
 make test
