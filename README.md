@@ -1,6 +1,6 @@
 # hexlet-jest 🎓
 
-## Setup
+## Setup 💻
 
 ``` 
 make install
