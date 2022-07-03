@@ -1,4 +1,4 @@
-# hexlet-jest 🎓
+# hexlet-jest
 
 ## Setup 💻
 
